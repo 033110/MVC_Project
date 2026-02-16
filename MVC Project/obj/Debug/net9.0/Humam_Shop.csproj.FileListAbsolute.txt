@@ -354,3 +354,7 @@ C:\Users\Humam\Documents\asp\MVC Project\MVC Project\bin\Debug\net9.0\runtimes\w
 C:\Users\Humam\Documents\asp\MVC Project\MVC Project\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Humam\Documents\asp\MVC Project\MVC Project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\Humam\Documents\asp\MVC Project\MVC Project\obj\Debug\net9.0\Humam_Shop.sourcelink.json
+C:\Users\Humam\Documents\asp\MVC Project\MVC Project\obj\Debug\net9.0\compressed\n0ty2xnasn-3w7jejt5b1.gz
+C:\Users\Humam\Documents\asp\MVC Project\MVC Project\obj\Debug\net9.0\compressed\orfhcenjau-1za78g898y.gz
+C:\Users\Humam\Documents\asp\MVC Project\MVC Project\obj\Debug\net9.0\compressed\ri6hxyzl86-vtm9dvzpet.gz
+C:\Users\Humam\Documents\asp\MVC Project\MVC Project\obj\Debug\net9.0\compressed\d0nhlqo235-jmgwmyfb49.gz

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Humam_Shop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a930f4b5e134a2fb14b5a9d8657cd39250c4caf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b69bd29c6be721e862346ce770ad17c61f9ad4c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Humam_Shop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Humam_Shop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
